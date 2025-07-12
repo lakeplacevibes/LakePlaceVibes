@@ -1,2 +1,2 @@
-# Lake Place Vibes
-A laid-back lake life apparel website built with React.
+# Lake Place Vibes v2
+A redesigned apparel website with scenic lake visuals and product mockups.
